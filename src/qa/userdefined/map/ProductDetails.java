@@ -48,6 +48,7 @@ public class ProductDetails {
 		details(7384);
 		details(83278);
 		details(92739);
+		details(749795);
 
 	}
 }
